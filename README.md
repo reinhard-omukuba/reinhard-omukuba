@@ -9,7 +9,7 @@
 ### 🧠 About Me
 I'm a software engineer specializing in **Probabilistic Reasoning**, **Statistics**, and **Deep Generative Models**.  
 My coding journey began in 2013 with PHP, and I've since worked with:  
-**Java, VB6, Python, JS, C, C++, R, Caml Light, Prolog** — but **Python** & **JavaScript** remain my personal favorites.
+**Java, VB6, Python, JS, C, C++, R, Caml Light, Prolog** but **Python** & **JavaScript** remain my personal favorites.
 
 I'm a passionate developer and HCI enthusiast, driven by a love for ingenious software and bold interaction concepts.
 
